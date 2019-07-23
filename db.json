@@ -2,23 +2,31 @@
   "todos": [
     {
       "id": 1,
-      "content": "todo item 1",
-      "completed": false
+      "itemName": "todo item 1",
+      "isSelected": false,
+      "isEditing": false,
+      "isShow": true
     },
     {
       "id": 2,
-      "content": "todo item 2",
-      "completed": false
+      "itemName": "todo item 2",
+      "isSelected": false,
+      "isEditing": false,
+      "isShow": true
     },
     {
       "id": 3,
-      "content": "todo item 3",
-      "completed": false
+      "itemName": "todo item 3",
+      "isSelected": false,
+      "isEditing": false,
+      "isShow": true
     },
     {
       "id": 4,
-      "content": "todo item 4",
-      "completed": true
+      "itemName": "todo item 4",
+      "isSelected": true,
+      "isEditing": false,
+      "isShow": true
     }
   ]
 }
